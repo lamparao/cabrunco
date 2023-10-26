@@ -14,6 +14,7 @@ prefect = "^2.13.8"
 fastapi = "^0.104.0"
 uvicorn = "^0.23.2"
 sqlalchemy-libsql = "^0.1.0"
+python-dotenv = "^1.0.0"
 
 
 [build-system]
